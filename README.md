@@ -1,4 +1,4 @@
-# Fuja das Canetas com Manoel
+# Fuja das Canetas com Manoel©
 
 ## Integrantes
 - Ricardo 
