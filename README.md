@@ -2,7 +2,7 @@
 
 ## Integrantes
 - Ricardo (Namorado do marcelo)
-- Murilo Richard
+- Murilo Richard (amante do marcelo)
 
 ## Tema
 Jogo de desviar de objetos (survival/dodge game), no qual o jogador controla o personagem Manoel© e precisa fugir de canetas vermelhas que caem do topo da tela.
