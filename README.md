@@ -5,7 +5,7 @@
 - Murilo Richard
 
 ## Tema
-Jogo de desvio (survival/dodge game), no qual o jogador controla o personagem Manoel e precisa fugir de canetas vermelhas que caem do topo da tela.
+Jogo de desviar de objetos (survival/dodge game), no qual o jogador controla o personagem Manoel e precisa fugir de canetas vermelhas que caem do topo da tela.
 
 ## Objetivo do sistema
 Proporcionar diversão de uma maneira geral, através de um jogo simples, rápido e com dificuldade progressiva, desafiando o jogador a sobreviver o maior tempo possível.
