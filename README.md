@@ -1,8 +1,8 @@
 # Fuja das Canetas com Manoel
 
 ## Integrantes
-- Ricardo (Namorado do marcelo)
-- Murilo Richard (amante do marcelo)
+- Ricardo 
+- Murilo Richard 
 
 ## Tema
 Jogo de desviar de objetos (survival/dodge game), no qual o jogador controla o personagem Manoel© e precisa fugir de canetas vermelhas que caem do topo da tela.
